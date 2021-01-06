@@ -11,7 +11,7 @@
   <tr>
     <td>Application and cluster management</td>
     <td></td>
-    <td style="background-color:green">Yes</td>
+    <td style="background:green">Yes</td>
     <td>Yes</td>
     <td>Yes</td>
     <td>Yes</td>
