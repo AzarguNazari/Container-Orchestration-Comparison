@@ -19,17 +19,7 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
+    <td>Single Machine Deployment</td>
     <td></td>
     <td></td>
     <td></td>
@@ -39,17 +29,7 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
+    <td>Creation, management and inspection of cluster and applications</td>
     <td></td>
     <td></td>
     <td></td>
@@ -59,17 +39,7 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
+    <td>Monitoring resource usage and health</td>
     <td></td>
     <td></td>
     <td></td>
@@ -79,17 +49,7 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
+    <td>Logging and debugging of CO framework and containers</td>
     <td></td>
     <td></td>
     <td></td>
@@ -99,17 +59,7 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
+    <td>Cluster maintenance</td>
     <td></td>
     <td></td>
     <td></td>
@@ -119,17 +69,7 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
+    <td>Protection of sensitive data and proprietary software</td>
     <td></td>
     <td></td>
     <td></td>
@@ -139,17 +79,8 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  <tr>
-    <td></td>
+    <td>Improved security isolation between containers and OS
+</td>
     <td></td>
     <td></td>
     <td></td>
@@ -159,7 +90,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td>User identity and access management</td>
     <td></td>
     <td></td>
     <td></td>
@@ -169,7 +100,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td>Cluster network security</td>
     <td></td>
     <td></td>
     <td></td>
@@ -177,4 +108,214 @@
     <td></td>
     <td></td>
   </tr>
+  
+  <tr>
+    <td>Container CPU and mem allocation with support for over-subscription</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Allocation of other resources</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Controlling scheduling behavior by means of placement constraints</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Controlling preemptive scheduling and rescheduling behavior</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Supported workload types</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Persistent volumes</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Reusable container configuration</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+   <tr>
+    <td>Service upgrades</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Container networks</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Services networking
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Host ports conflict management
+</td>
+    <td>
+Plugin architecture for network services
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Service discovery and external access
+CO system customization
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Unified container runtime architecture
+Framework design of orchestration engine
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Cluster architecture and setup
+Configuration management approach
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Architectural patterns
+Installation methods and deployment tools
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Production Ready
+Scalability
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Failover
+High Availability
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Network plugins
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Load running on Server
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+      <tr>
+    <td>Maturity
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
 </table>
+
+
